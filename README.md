@@ -1,4 +1,4 @@
-# datajoint-catalog-home
+# Datajoint Catalog Home
 A home page for the DataJoint catalog
 
 
